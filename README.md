@@ -12,7 +12,7 @@ A fast and multi-threaded admin panel finder tool for bug bounty hunters and pen
 
 ⚡ Installation & Usage
 Clone the repository:
-git clone https://github.com/your-username/admin-panel-finder.git
+git clone https://github.com/ghostxkamal/admin-panel-finder.git
 cd admin-panel-finder
 
 
