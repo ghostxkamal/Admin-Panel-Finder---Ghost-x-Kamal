@@ -22,3 +22,11 @@ Created by **Ghost x Kamal**.
 ```bash
 git clone https://github.com/ghostxkamal/admin-panel-finder.git
 cd admin-panel-finder
+
+## 🔹 Install required modules
+pip install requests colorama
+python3 Admin_find.py
+Enter target site (e.g. example.com): example.com  
+Do you want to use a wordlist? (y/n): n  
+
+
